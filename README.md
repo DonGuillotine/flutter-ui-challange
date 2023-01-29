@@ -1,6 +1,6 @@
-# my_card
+# My Card and UI Coding Challange
 
-A new Flutter project.
+Successfully Completed the begineer coding challange!
 
 ## Getting Started
 
